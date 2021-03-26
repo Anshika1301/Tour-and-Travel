@@ -3,6 +3,7 @@ position: relative;
 }
 
 html {
+scroll-padding-top: 100px;
 scroll-behavior: smooth;
 }
 
@@ -171,7 +172,6 @@ padding: 20px 0px 5px 0px;
 /*Top Destination Section*/
 #top-destination{
 background-color: #f8faff;
-padding-top: 10px;
 }
 
 .img-box{
